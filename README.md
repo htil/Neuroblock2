@@ -10,3 +10,9 @@ For previous version of Neuroblock see [Neuroblock 1.](https://htilua.org/neurob
 ## Starting 
 
 `npm start`
+
+
+
+## Notes
+
+- If you get an error stating `"No version of chokidar available"` try running `npm update chokidar`
